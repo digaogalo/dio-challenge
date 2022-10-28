@@ -1,2 +1,2 @@
-# dio-challenge
+# DIO Challenge
 Desafio da DIO em criar um repósitorio GitHub
